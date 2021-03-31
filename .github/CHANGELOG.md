@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] - 2021-03-31
+### Changed
+- Composer package requirements to be less restrictive.
+
 ## [0.1.0] - 2021-03-31
 ### Added
 - Accessors and mutators
@@ -13,4 +17,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Hidden attributes in Array/JSON conversion
 - Guarded and fillable attributes
 
+[0.1.1]: https://github.com/anteris-dev/model/releases/tag/v0.1.1
 [0.1.0]: https://github.com/anteris-dev/model/releases/tag/v0.1.0
